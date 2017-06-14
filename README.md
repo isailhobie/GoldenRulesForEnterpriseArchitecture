@@ -6,5 +6,19 @@ An architectural golden rule is a "commandment", adherence to which leads to hig
 The principles are categorized at different levels and grouped into high level business objectives as follows:
 
 * **Safe** - Level 1 Governance 
-  * [Compliant](Compliant)
   * [Secure](Secure)
+  * [Compliant](Compliant)
+  
+* **Reliable and Performant** - Level 2 Governance 
+  * [Reliable](Reliable)
+  * [Scalable](Scalable)
+  * [Manageable](Manageable)
+  
+* **Fast to Market** - Level 3 Governance 
+  * [Simple](Simple)
+  * [Modular](Modular)
+  * [Maintainable](Maintainable)
+  * [Managed Data](ManagedData)
+
+* **Global** - Level 4 Governance 
+  * [Global](Global)
