@@ -1,6 +1,8 @@
 # Principle based Enterprise Architecture
 
-An architectural golden rule is a "commandment", adherence to which leads to higher long-term value for an Asset. The set of golden rules is part of Enterprise Architecture Governance. The Golden Rules and the principles that organize them are not limited to a single company/team/division or product. In fact, the architecture principles and associated golden rules specifically capture the non-functional requirements that every product needs to adhere to, but which business requirements often assume rather than specify.
+Enterprise Architecture shoudl not be Ad-hoc.  It shoudl be basedon principles and it should be measurable.
+
+An architectural golden rule is like a "commandment". Adherence to the Golden Rules leads to higher long-term value for an technology assets. The golden rules organized by *architecture principles*, which are in turn organized by **business objectives**.  These collectively define the non-functional requirements that every system ought to embrace, but which business requirements often assume rather than specify.
 
 ## Business Objectives & Principles
 The principles are categorized at different levels and grouped into high level business objectives as follows:
@@ -22,3 +24,8 @@ The principles are categorized at different levels and grouped into high level b
 
 * **Global** - Level 4 Governance 
   * [Global](Global)
+
+## How to use this project
+The Word Document, titled "Principle Based Enterprise Architecture" discussed the philisophy and approach to a measurable Enterprise Architecture and describes the meaning of the Principles and Golden Rules.
+
+The excel file, titled "system asset scorecard" is the actual scorecard used to measure a technology system.  Instructions for filling out th scorecard are in a tab labelled "Instructions".  Additional guidance is provided in teh associated document as well as this wiki.
