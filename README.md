@@ -8,22 +8,22 @@ An architectural golden rule is like a "commandment". Adherence to the Golden Ru
 The principles are categorized at different levels and grouped into high level business objectives as follows:
 
 * **Safe** - Level 1 Governance 
-  * [Secure](Secure)
-  * [Compliant](Compliant)
+  * Secure
+  * Compliant
   
 * **Reliable and Performant** - Level 2 Governance 
-  * [Reliable](Reliable)
-  * [Scalable](Scalable)
-  * [Manageable](Manageable)
+  * Reliable
+  * Scalable
+  * Manageable
   
 * **Fast to Market** - Level 3 Governance 
-  * [Simple](Simple)
-  * [Modular](Modular)
-  * [Maintainable](Maintainable)
-  * [Managed Data](ManagedData)
+  * Simple
+  * Modular
+  * Maintainable
+  * Managed Data
 
 * **Global** - Level 4 Governance 
-  * [Global](Global)
+  * Global
 
 ## How to use this project
 The Word Document, titled "Principle Based Enterprise Architecture" discussed the philisophy and approach to a measurable Enterprise Architecture and describes the meaning of the Principles and Golden Rules.
